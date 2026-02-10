@@ -6,4 +6,6 @@ for i in word:
   </br>
 if len(word)>20:
   print("its too long")
+if len==0:
+  print("its fine")
   
